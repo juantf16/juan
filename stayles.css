@@ -1,0 +1,14 @@
+.rodapé {
+    position: absolute;
+    bottom: 0;
+    background-color: orange;
+    width: 100%;
+    left: 0;
+
+
+}
+
+body {
+
+    text-align: center;
+}
