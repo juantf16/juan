@@ -24,3 +24,21 @@
     text-align: center;
 
 }
+
+.borda {
+
+    border-radius: 20px;
+    height: 20px;
+    width: 250px;
+
+
+}
+
+.botao {
+
+    border-radius: 20px;
+    height: 25px;
+    color: white;
+    background-color: orange;
+
+}
